@@ -182,6 +182,7 @@ nlu:
     - I want to do a [fellowships](opportunites)
     - I want to do a [internships](opportunites)
     - Give me fellowships information
+    - Give me internships information
 
 - intent: tutionfee_info
   examples: |
